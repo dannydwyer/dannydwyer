@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dannydwyer
+- 👀 I’m interested in programming - mainly learning game development or cyber security, as well as just general good practices (currently a student).
+- 🌱 I’m currently learning objected oriented programming.
